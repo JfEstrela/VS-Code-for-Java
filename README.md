@@ -35,9 +35,9 @@
 5. [Jetty](https://marketplace.visualstudio.com/items?itemName=SummerSun.vscode-jetty)
 6. [CheckStyle](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle)
 
-##Java project support
+## Java project support
 
-### Maven, Eclipse, and Gradle java project
+#### Maven, Eclipse, and Gradle java project
 
 ## Reference Documentation
 For further reference, please consider the following sections:
