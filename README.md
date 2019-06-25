@@ -39,6 +39,8 @@
 
 #### Maven, Eclipse, and Gradle java project
 
+![alt text](https://github.com/JfEstrela/VS-Code-for-Java/blob/master/extensions.png)
+
 ## Reference Documentation
 For further reference, please consider the following sections:
 
